@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color: #4caf50;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.heading {
+    color: white;
+}
+.topic {
+    background-color: #f9f9f9;
+    padding-left: 10px;
+    padding-bottom: 320px;
+    padding-right: 150px;
+}
+.topic .mainTopic {
+    font-size: 16px;
+    font-weight: 600;
+}
+.topic .list {
+    font-size: 12px;
+}
+.head1 {
+    font-weight: 600;
+}
+.head2 {
+    font-weight: 600;
+}
+.summary1 {
+    font-size: 12px;
+    padding-right: 1000px;
+}
+.summary2 {
+    font-size: 12px;
+}
+.footer {
+    color: white;
+    background-color: #333333;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}

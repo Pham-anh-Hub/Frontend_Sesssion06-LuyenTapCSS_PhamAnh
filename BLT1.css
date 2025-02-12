@@ -1,0 +1,33 @@
+
+body {
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.paragrapgh1 {
+    font-size: 15px;
+    text-align: center;
+    background-color:#007bff ;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+table {
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.photo { 
+    border-radius: 4px;
+    padding-right: 20px;
+    height: 100px;
+    width: 100px;
+    border-color: blueviolet;
+}
+.paragrapgh2 {
+    text-align: center;
+    background-color: #f1f1f1;
+    padding-top: 5px;
+    padding-bottom: 25px;
+}

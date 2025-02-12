@@ -1,0 +1,109 @@
+
+body{
+    background-color: rgb(251, 251, 239);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.part1 {
+    padding-left: 15px;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.part1 p{
+    font-size: larger;
+    font-weight: 600;
+}
+.cornerText {
+    font-size: small;
+    padding-left: 750px;
+}
+table {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.photo {
+    padding-left: 30px;
+    height: 150px;
+    width: 150px;
+    padding-right: 20px;
+    border-radius: 55%;
+}
+.p2 {
+    font-weight: 600;
+}
+.part3 {
+    padding-top: 15px;
+    padding-left: 20px;
+    background-color: white;
+}
+.part3 .project {
+    font-weight:600;
+    font-size: 20px;
+    padding-bottom: 0px;
+}
+table {
+    padding-left: 0px;
+}
+
+.items .item1 {
+    border-radius: 4px;
+    font-size: 20px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 10px;
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
+.items .item2 {
+    border-radius: 4px;
+    font-size: 20px;
+    justify-content:center;
+    align-items: center;
+    padding: 10px;
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
+.items .item3 {
+    border-radius: 4px;
+    font-size: 20px;
+    justify-content:baseline;
+    align-items: center;
+    padding: 10px;
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
+.items .item4 {
+    border-radius: 4px;
+    font-size: 20px;
+    justify-content:baseline;
+    align-items: center;
+    padding: 10px;
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
+.part4 {
+    text-align: center;
+    font-size: 12px;
+}
+.part4 .linkein {
+    font-weight: 700;
+    text-decoration: none;
+}
+.part4 .github {
+    font-weight: 600;
+    text-decoration: none;
+}
